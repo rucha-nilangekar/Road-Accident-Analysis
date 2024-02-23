@@ -9,6 +9,6 @@
 
 ## Code and Resources Used
 * **Python Version** : 3.11.4.
-* **Packages :** pandas, sklearn, matplotlib, seaboard, json, defaultdict.
+* **Packages :** pandas, sklearn, matplotlib, seaborn, json, defaultdict.
 * **API and Data Source:** https://crashviewer.nhtsa.dot.gov/CrashAPI.
 * **Machine Learning Algorithms :** Ordinal Logistic Regressor, Naïve Bayes, Random Forest Classifier.
